@@ -1,5 +1,7 @@
 # MCP Readiness Check
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/payloadhq-mcp-readiness-check-13r694?v=ff3c48c155ec7fee56d0352642b9caf5)](https://m8ven.ai/mcp/payloadhq-mcp-readiness-check-13r694?s=readme)
+
 **Free GitHub Action: 10 MCP server readiness checks on every PR. By Payload.**
 
 Runs against your `server.json` on every pull request and catches the common
