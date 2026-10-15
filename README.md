@@ -24,7 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Payloadhq/mcp-readiness-check@v1
+      - uses: Payloadhq/mcp-readiness-check@v1.0.1
         with:
           manifest-path: server.json   # path to your manifest (default: server.json)
           fail-on: error               # 'error' (default) or 'warning'
